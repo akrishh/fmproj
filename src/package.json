@@ -1,0 +1,22 @@
+{
+  "name": "fmproj",
+  "version": "1.0.0",
+  "description": "fmproj",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akrishh/fmproj.git"
+  },
+  "keywords": [
+    "fmproj"
+  ],
+  "author": "ak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akrishh/fmproj/issues"
+  },
+  "homepage": "https://github.com/akrishh/fmproj#readme"
+}
